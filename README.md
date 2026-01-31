@@ -1,6 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building real-world Generative AI applications<br><br>Developing agentic AI systems that can reason, plan, and act autonomously<br><br>Working as an AI Intern, contributing to applied AI, LLM workflows, and RAG pipelines<br><br>Designing AI-driven full-stack platforms like WasteZero for smart cities<br><br>👯 I’m looking to collaborate on<br><br>Agentic AI & Multi-Agent Systems<br><br>Retrieval-Augmented Generation (RAG) projects<br><br>LLM-powered automation agents<br><br>Generative AI + Full-Stack applications using Python, FastAPI, React, and Node.js<br><br>🤝 I’m looking for help with<br><br>Scaling and optimizing agentic AI workflows<br><br>Improving LLM reliability, schema validation, and self-healing systems<br><br>Advanced model fine-tuning and production deployment of AI systems <br><br>MAYANK-AHLAWAT-2023PUFCEBADX144…<br><br>🌱 I’m currently learning<br><br>Advanced LLM orchestration (LangChain, Hugging Face, tool calling)<br><br>Reliable AI systems using Pydantic & Guardrails AI<br><br>RAG optimization, vector databases, and multi-agent coordination<br><br>Cloud & applied AI concepts alongside full-stack development<br><br>💬 Ask me about<br><br>Agentic AI development<br><br>RAG pipelines & structured JSON extraction<br><br>FastAPI + LLM integrations<br><br>Prompt engineering & schema-validated AI outputs<br><br>Full-stack AI applications (React, Node.js, Python)<br><br>⚡ Fun fact<br><br>I love building self-healing AI agents that automatically correct invalid LLM outputs and turn messy data into clean, structured intelligence 🤖✨
+## 💫 About Me
 
+### 🔭 Currently Working On
+- Building real-world **Generative AI applications**
+- Developing **agentic AI systems** capable of reasoning, planning, and autonomous action
+- Working as an **AI Intern**, contributing to applied AI, LLM workflows, and **Retrieval-Augmented Generation (RAG)** pipelines
+- Designing **AI-driven full-stack platforms** such as *WasteZero* for smart city use cases
+
+---
+
+### 👯 Looking to Collaborate On
+- **Agentic AI and Multi-Agent Systems**
+- **Retrieval-Augmented Generation (RAG)** projects
+- **LLM-powered automation agents**
+- **Generative AI + Full-Stack applications** using Python, FastAPI, React, and Node.js
+
+---
+
+### 🤝 Looking for Help With
+- Scaling and optimizing **agentic AI workflows**
+- Improving **LLM reliability**, schema validation, and self-healing systems
+- Advanced **model fine-tuning** and **production deployment** of AI systems
+
+---
+
+### 🌱 Currently Learning
+- Advanced **LLM orchestration** (LangChain, Hugging Face, tool calling)
+- Building **reliable AI systems** using Pydantic and Guardrails AI
+- **RAG optimization**, vector databases, and multi-agent coordination
+- Cloud and **applied AI concepts** alongside full-stack development
+
+---
+
+### 💬 Ask Me About
+- **Agentic AI development**
+- **RAG pipelines** and structured JSON extraction
+- **FastAPI + LLM integrations**
+- **Prompt engineering** and schema-validated AI outputs
+- **Full-stack AI applications** (React, Node.js, Python)
+
+---
+
+### ⚡ Fun Fact
+I enjoy building **self-healing AI agents** that automatically correct invalid LLM outputs and transform unstructured data into clean, structured intelligence.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mayank_ahlawat_400/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank-ahlawat) 
